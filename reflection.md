@@ -7,4 +7,4 @@ Use this file to record your reflection on this assignment.
 
 - For me, building on top of A7 rather than starting from scratch worked well. Inheritance reused code from Building.java, so it became easier for me to focus only on what was new for each class. It was a bit difficult to decide how to override goToFloor(...) because it is different for each subclass, and I had to make the overloaded methods still relatively simple/ clear.
 
-- An advice to future students: keep the parent class open while working so you can see what has already been inherited and what has to be changed. Overloading is like giving a user options/ multiple ways of doing the same action, which allows more interactivity, and saves us from trying to invent completely different behaviors. 
+- An advice to future students: keep the parent class open while working so you can see what has already been inherited and what has to be changed. Overloading, in a sense, is like giving a user options/ multiple ways of doing the same action, which allows more interactivity, and saves us from trying to invent completely different behaviors. 
